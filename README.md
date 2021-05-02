@@ -32,7 +32,7 @@ Users should be able to:
 </p>
 
 <p align="center">
-  <img src="design/desktop-view.png">
+  <img src="design/mobile-view.png">
   <br>Mobile View
 </p>
 
